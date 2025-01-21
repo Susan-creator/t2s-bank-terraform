@@ -12,7 +12,7 @@ This repository contains Terraform configurations for provisioning A complete Co
 
 ### Step 1: Clone the Repository
 
-   -> git clone https://github.com/Here2ServerU/t2s-bank-terraform.git
+   -> git clone (https://github.com/Susan-creator/t2s-bank-terraform.git)
    
    -> cd t2s-bank-terraform
 
